@@ -1,4 +1,4 @@
-package com.dicoding.javafundamental.basic;
+package com.dicoding.fundamental.basic;
 
 import com.dicoding.fundamental.basic.kendaraan.Kereta;
 import com.dicoding.fundamental.basic.kendaraan.Mobil;
